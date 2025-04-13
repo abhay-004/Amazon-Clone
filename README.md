@@ -2,6 +2,11 @@
 
 This repository contains a simple **Amazon Clone** built using **HTML** and **CSS**. It's a frontend-only project that mimics the layout and design of the official Amazon website, including the header, navigation bar, hero section, product listings, and footer.
 
+## 🌐 Live Demo
+
+👉 [View Live Demo](https://poetic-raindrop-dc82d0.netlify.app/)  
+
+
 ## 🛠️ Technologies Used
 
 - HTML5
